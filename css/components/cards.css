@@ -1,0 +1,19 @@
+.cards {
+  display: flex;
+  justify-content: space-between;
+}
+
+.card {
+  width: 200px;
+  text-align: center;
+  border: solid 3px #defaee;
+  margin-right: 5px;
+}
+
+.card img {
+  height: 100px;
+}
+
+.cards h2 {
+  text-align: center;
+}

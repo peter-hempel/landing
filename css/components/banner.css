@@ -1,0 +1,29 @@
+.banner {
+  background-size: cover;
+  background-position: center;
+  padding: 150px 0;
+}
+
+.banner h2 {
+  margin-top: 0px;
+  color: white;
+}
+
+.banner p {
+  color: white;
+  margin-bottom: 30px;
+}
+
+
+.btn-green {
+  background-color: #1FDD88;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 30px;
+  transition: 0.7s;
+}
+
+.btn-green:hover {
+  background-color: #062a1a;
+}
+
